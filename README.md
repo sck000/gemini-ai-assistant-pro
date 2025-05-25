@@ -19,13 +19,6 @@ Transform your browsing experience with AI-powered assistance:
 - 🎯 **Quick actions** via right-click context menu
 - ⌨️ **Keyboard shortcuts** (Ctrl+Shift+G to open)
 
-## 🆓 Works Without API Key!
-
-**Three modes available:**
-1. **🤖 Gemini Nano (Offline)** - 100% private, works without internet
-2. **🌐 Web Mode** - Uses gemini.google.com directly, no API needed
-3. **🔑 API Mode** - For advanced users with their own API key
-
 ## 🚀 Quick Start
 
 ### Installation
